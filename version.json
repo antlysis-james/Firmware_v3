@@ -1,0 +1,22 @@
+{
+  "alpha1": {
+    "BASE": {
+      "latest": {
+        "version": "3.6.1",
+        "filename": "Alpha1/BASE/BASE_3.6.1.bin"
+      }
+    },
+    "MachineA": {
+      "latest": {
+        "version": "3.6.1",
+        "filename": "Alpha1/MACHINE_A/MachineA_3.6.1.bin"
+      }
+    },
+    "StackA": {
+      "latest": {
+        "version": "3.6.1",
+        "filename": "Alpha1/STACK_A/StackA_3.6.1.bin"
+      }
+    }
+  }
+}
