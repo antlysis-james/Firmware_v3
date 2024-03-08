@@ -6,16 +6,16 @@
         "filename": "Alpha1/BASE/BASE_3.6.1.bin"
       }
     },
-    "MachineA": {
+    "MachineV3": {
       "latest": {
         "version": "3.6.1",
-        "filename": "Alpha1/MACHINE_A/MachineA_3.6.1.bin"
+        "filename": "Alpha1/MACHINE_V3/MachineV3_3.6.1.bin"
       }
     },
-    "StackA": {
+    "StackV3": {
       "latest": {
         "version": "3.6.1",
-        "filename": "Alpha1/STACK_A/StackA_3.6.1.bin"
+        "filename": "Alpha1/STACK_V3/StackV3_3.6.1.bin"
       }
     }
   }
