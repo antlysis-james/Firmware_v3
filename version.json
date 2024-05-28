@@ -8,14 +8,14 @@
     },
     "MachineV3": {
       "latest": {
-        "version": "3.6.5",
-        "filename": "Alpha1/MACHINE_V3/MachineV3_3.6.5.bin"
+        "version": "3.6.6",
+        "filename": "Alpha1/MACHINE_V3/MachineV3_3.6.6.bin"
       }
     },
     "StackV3": {
       "latest": {
-        "version": "3.6.5",
-        "filename": "Alpha1/STACK_V3/StackV3_3.6.5.bin"
+        "version": "3.6.6",
+        "filename": "Alpha1/STACK_V3/StackV3_3.6.6.bin"
       }
     }
   }
